@@ -3,3 +3,4 @@ def find_max_value(array)
  return new_arr[-1]
 end 
  
+ 
